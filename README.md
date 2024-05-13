@@ -8,7 +8,7 @@
 - Customizable password generator with options and features.
 
 ## 📸 Snaps of password generator
-![Age Calculator preview](assets/images/pass-generator.png)
+![password generator preview](assets/images/pass-generator.png)
 
 ## 🔍 Key Features:
 - Customize passwords to desired length and complexity.
