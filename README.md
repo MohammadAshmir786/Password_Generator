@@ -29,5 +29,5 @@
 ## 🌐 Experience it Live: 
 [live preview of Password Generator](https://mohammadashmir786.github.io/Password_Generator/)
 
-## 👩‍💻 Contribute on GitHub: 
-[Password Generator Repository](https://github.com/MohammadAshmir786/Password_Generator.git)
+## LICENCE
+This project is secured by MIT [LICENCE](LICENSE.txt)
